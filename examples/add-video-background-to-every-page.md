@@ -2,7 +2,7 @@
 
 In some instances, you may want a video background on every page of your WordPress site. This is very straight forward thanks to the `[vidbg]` shortcode.
 
-Paste at the bottom of your `functions.php` file:
+You can do so by pasting this function at the bottom of your `functions.php` file:
 
 ```php
 /**
