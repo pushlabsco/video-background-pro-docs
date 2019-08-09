@@ -11,7 +11,7 @@ Here are the steps to create a video background successfully with WPBakery:
 3. Make sure you are using the WPBakery **Backend Editor**
 4. Create a row by selecting the **plus icon*, then selecting the **Row** item
 5. Select the **pencil icon** in the top-right corner of the row to bring up the settings
-6. Click the **Video Background* tab, and fill in the fields as necessary.
+6. Click the **Video Background** tab, and fill in the fields as necessary.
 7. Save changes
 
 Congrats, you've added a video background through WPBakery!
