@@ -28,6 +28,7 @@ The shortcode has parameters that you can specify to tailor your video backgroun
 | overlay_texture_url | This option was depreciated in Video Background Pro 4.0.0, and will no longer do anything. | Any | Any URL to an image. | "#"
 | frontend_play_button | Toggle a play/pause button for the video background. | Any | `true` or `false` | "false"
 | frontend_volume_button | Toggle a mute/unmute button for the video background. | Any | `true` or `false` | "false"
+| frontend_position | Specify the position of the frontend buttons. Either `frontend_play_button`, `frontend_volume_button` or both must be enabled. | Any | `bottom-right`, `bottom-left`, `top-right`, `top-left` | "bottom-right"
 | enable_loader | This option was depreciated in Video Background Pro 4.0.0, and will no longer do anything. | Any | `true` or `false` | "false"
 | play_on_mobile | This option was depreciated in Video Background Pro 4.0.0, and will no longer do anything. Now, the video background will play on any mobile browser that supports HTML5 `<video>`. | Any | `true` or `false` | "true"
 | player_options | Allows you to interact with the player's API. Can be used for `self-host`, `youtube`, and `vimeo` video backgrounds. Make a JSON string of an object with the options that you would like to add/override. | Any | A JSON String with an object of key:value pairs. | "null"
