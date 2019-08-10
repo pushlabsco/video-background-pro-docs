@@ -23,7 +23,7 @@ In Video Background Pro, you can reference this element two ways:
 * By the id attribute
 * By the class attribute
 
-**In HTML, id attributes have to be unique, however, classes can be used multiple times throughout the web page.**
+**In HTML, id attributes have to be unique while classes can be used multiple times throughout the web page.**
 
 Because of this, it is best to reference the ID over the class, as it has less of a chance of conflicting with other elements.
 
