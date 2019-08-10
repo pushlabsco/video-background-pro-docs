@@ -17,7 +17,7 @@ In order to find your container, you'll need a browser with developer tools. I w
 3. You'll notice a new window pops up with a hierarchical list of elements to the left. This is called the [DOM](https://www.w3schools.com/js/js_htmldom.asp). It is a tree of HTML elements. One of these elements is your container.
 4. Since you were hovering over the area where you want your video background to be placed, the selected element should be close, if not correct. You'll know that the selected element is your container when you hover over it, and blue and or green fill up the entire area of where you want the video background to be placed. Feel free to watch the tutorial above for a more in depth demonstration.
 
-[For an in depth dive into finding selectors, take a look at this tutorial by Google](https://developers.google.com/web/tools/chrome-devtools/dom/)
+[For an in depth dive into finding selectors, take a look at this tutorial by Google.](https://developers.google.com/web/tools/chrome-devtools/dom/)
 
 
 ## Once I Have Found My Container, How Do I Reference It?
