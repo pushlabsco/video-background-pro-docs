@@ -4,11 +4,21 @@
 
 Finding your container may be the most important aspect of using Video Background Pro. The container tells the plugin where to place the video background.
 
-## What is a container?
+## What Is a Container?
 
 A container in Video Background Pro is nothing more than a [CSS Selector](https://www.w3schools.com/cssref/css_selectors.asp). A [selector](https://www.w3schools.com/cssref/css_selectors.asp) allow you to specify what element on a webpage you want to target. If you are new to selectors, I highly recommend taking a look at this w3schools article [CSS Syntax and Selectors](https://www.w3schools.com/css/css_syntax.asp). It will save you a lot of time looking for your container.
 
-## How do I reference a selector/container?
+## How Do I Find My Container?
+
+In order to find your container, you'll need a browser with developer tools. I would recommend using Google Chrome for this.
+
+1. Start by hovering your mouse over the area in which you want the video background to appear.
+2. Right click and select the **inspect** menu item. This will open the developer tools.
+3. You'll notice a new window pops up with a hierarchical list of elements to the left. This is called the [DOM](https://www.w3schools.com/js/js_htmldom.asp). It is a tree of HTML elements. One of these elements is your container.
+4. Since you were hovering over the area where you want your video background to be placed, the selected element should be close, if not correct. You'll know that the selected element is your container when you hover over it, and blue and or green fill up the entire area of where you want the video background to be placed. Feel free to watch the tutorial above for a more in depth demonstration.
+
+
+## Once I Have Found My Container, How Do I Reference It?
 
 Say we have found the element you want to target for a video background, and it looks like this:
 
@@ -38,5 +48,4 @@ Alternatively, if you wanted to reference the class, you would prefix it with a 
 ```css
 .site-header
 ```
-
 
