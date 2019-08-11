@@ -1,3 +1,8 @@
+---
+title: Downloading and Installing
+description: How to download and install the plugin
+---
+
 # Downloading & Installing
 
 During the checkout process, you will create an account from your email and from the password field. Once you have successfully purchased the plugin, you can [login to your account page.](https://pushlabs.co/my-account/my-api-downloads/)
