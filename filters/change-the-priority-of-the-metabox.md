@@ -5,7 +5,7 @@ If you would like to change the position of the Video Background Pro metabox, yo
 ```php
 <?php
 /**
- * Define Video Background Pro's metabox priority
+ * Define Video Background Pros metabox priority
  *
  * @since 2.0.0
  * @author Push Labs

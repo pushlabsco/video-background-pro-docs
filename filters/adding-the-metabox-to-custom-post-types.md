@@ -5,7 +5,7 @@ To add the Video Background Pro metabox to a custom post type, add the function 
 ```php
 <?php
 /**
- * Define Video Background Pro's post types
+ * Define Video Background Pros post types
  *
  * @since 1.1.2
  * @author Push Labs

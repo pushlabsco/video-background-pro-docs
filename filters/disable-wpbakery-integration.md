@@ -5,7 +5,7 @@ If you need to disable the WPBakery (Visual Composer) integration, you could dis
 ```php
 <?php
 /**
- * Disable Video Background Pro's Visual Composer Integration
+ * Disable Video Background Pros Visual Composer Integration
  *
  * @since 2.2.0
  * @author Push Labs

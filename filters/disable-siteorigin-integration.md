@@ -5,7 +5,7 @@ If you need to disable the SiteOrigin Page Builder integration, you could do so 
 ```php
 <?php
 /**
- * Disable Video Background Pro's SiteOrigin Page Builder Integration
+ * Disable Video Background Pros SiteOrigin Page Builder Integration
  *
  * @since 3.0.0
  * @author Push Labs

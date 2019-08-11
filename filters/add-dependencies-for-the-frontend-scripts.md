@@ -5,7 +5,7 @@ A theme or plugin may be conflicting with Video Background Pro. In that case, yo
 ```php
 <?php
 /**
- * Define Video Background Pro's Script Dependencies
+ * Define Video Background Pros Script Dependencies
  *
  * @since 2.2.0
  * @author Push Labs
