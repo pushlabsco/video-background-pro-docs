@@ -1,3 +1,8 @@
+---
+title: Updating
+description: How to update the plugin
+---
+
 # Updating
 
 Updating the plugin will allow you to keep up-to-date with new features and improvements. Since modern browsers are constantly changing, it's important to have the latest version so your video backgrounds are compatible with browsers and devices.
