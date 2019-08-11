@@ -19,7 +19,7 @@ function theme_prefix_vidbg_random_video() {
         return;
     }
 
-    // Create an array of video files. You'll want to replace the values with your own URLs.
+    // Create an array of video files. You will want to replace the values with your own URLs.
     $videos = [
       [
           mp4 => '/video1.mp4',
