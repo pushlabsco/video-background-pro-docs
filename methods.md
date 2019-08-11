@@ -1,3 +1,8 @@
+---
+title: Using Methods
+description: How to call methods in Video Background Pro
+---
+
 # Using Methods
 
 Methods allow you to execute certain actions on your video background instance. Current methods provide the ability to play, pause, mute, unmute, and resize a video background.
