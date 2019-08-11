@@ -1,9 +1,8 @@
 {
   "name": "Video Background Pro Docs",
   "root": ".",
-  "output": "docs",
-  "baseURL": "/video-background-pro-docs/",
   "logo": "logo.svg",
+  "baseURL": "/video-background-pro/",
   "header_links": [
     {
       "title": "Back to Push Labs",
