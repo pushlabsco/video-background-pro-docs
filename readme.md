@@ -16,6 +16,13 @@ items:
   - component: Divider
   - path: troubleshooting
   - path: examples
+  - component: Divider
+  - url: https://pushlabs.co/license/
+    title: License
+  - url: https://pushlabs.co/support/
+    title: Support
+  - url: https://github.com/pushlabsco/video-background-pro-docs
+    title: Contribute to These Docs
 ---
 
 # Welcome to the Video Background Pro docs!
