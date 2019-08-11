@@ -2,7 +2,7 @@
   "name": "Video Background Pro Docs",
   "root": ".",
   "output": "docs",
-  "baseURL": "/video-background-pro/",
+  "baseURL": "/video-background-pro-docs/",
   "logo": "logo.svg",
   "header_links": [
     {
