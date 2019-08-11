@@ -1,6 +1,7 @@
 {
-  "name": "Video Background Pro",
+  "name": "Video Background Pro Docs",
   "root": ".",
+  "output": "docs",
   "logo": "logo.svg",
   "header_links": [
     {
