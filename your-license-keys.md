@@ -1,3 +1,8 @@
+---
+title: Your License Keys
+description: Learn about your license keys and activations
+---
+
 # Your License Keys
 
 When purchasing Video Background Pro, a license key is generated for you. Additionally, the email you used to purchase Video Background Pro becomes your license email for that generated license.
