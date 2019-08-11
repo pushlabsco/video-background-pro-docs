@@ -6,8 +6,8 @@ items:
   - path: your-license-keys.md
   - component: Divider
   - path: finding-your-container.md
-  - path: using-the-metabox.md
   - path: using-the-shortcode.md
+  - path: using-the-metabox.md
   - path: using-wpbakery.md
   - path: using-siteorigin.md
   - component: Divider
