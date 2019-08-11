@@ -13,4 +13,4 @@ You can view all of your licenses at the [License Keys page of your account.](ht
 
 ## Lost License
 
-If you have lost your license, you can [recover it here.](https://pushlabs.co/lost-license/). Remember to recover the license with the email address that you originally purchased the plugin with, as it is associated with your license key.
+If you have lost your license, you can [recover it here](https://pushlabs.co/lost-license/). Remember to recover the license with the email address that you originally purchased the plugin with, as it is associated with your license key.

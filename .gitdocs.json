@@ -1,6 +1,7 @@
 {
   "name": "Video Background Pro",
   "root": ".",
+  "logo": "logo.svg",
   "header_links": [
     {
       "title": "Back to Push Labs",
