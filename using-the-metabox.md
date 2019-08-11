@@ -1,3 +1,8 @@
+---
+title: Using the Metabox
+description: Tutorial and documentation on how to use the metabox in Video Background Pro
+---
+
 # Using the Metabox
 
 <div style="padding-top: 56.25%; position: relative;">
