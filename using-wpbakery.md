@@ -1,3 +1,8 @@
+---
+title: Using WPBakery
+description: Using WPBakery to Create a Video Background
+---
+
 # Using WPBakery to Create a Video Background
 
 WPBakery is a great tool to create website elements without much coding experience. Thankfully, Video Background Pro has a great WPBakery integration that lets you add video backgrounds through WPBakery `Row` elements.
