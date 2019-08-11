@@ -1,3 +1,8 @@
+---
+title: Using SiteOrigin
+description: Using SiteOrigin Page Builder to Create a Video Background
+---
+
 # Using SiteOrigin Page Builder to Create a Video Background
 
 SiteOrigin Page Builder is a great tool to create website elements without much coding experience in WordPress. Thankfully, Video Background Pro has a great SiteOrigin integration that lets you add video backgrounds through SiteOrigin Page Builder's `Row` widgets.
