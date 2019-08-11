@@ -1,5 +1,9 @@
 # Finding Your Container
 
+<div style="padding-top: 56.25%; position: relative;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/oTHcCfta1Q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Overview
 
 Finding your container may be the most important aspect of using Video Background Pro. The container tells the plugin where to place the video background.

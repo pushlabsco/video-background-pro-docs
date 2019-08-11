@@ -1,0 +1,11 @@
+{
+  "name": "Docs",
+  "root": ".",
+  "header_links": [
+    {
+      "title": "Back to Push Labs",
+      "href": "https://pushlabs.co",
+      "target": "_blank"
+    }
+  ]
+}
