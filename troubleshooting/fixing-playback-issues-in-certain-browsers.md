@@ -11,5 +11,5 @@
 | MP4 | MP4 H.264 Video Codec | AAC Audio Codec
 | WebM | VP8 or VP9 Video Codec | Vorbis or Opus Audio Codec
 
-You can [Learn more about optimizing your MP4 here](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats#MP4_H.264_(AAC_or_MP3)) or [learn more about optimizing your WebM here](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats#WebM).
+You can [Learn more about optimizing your MP4 here](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats#MP4_H.264_AAC_or_MP3) or [learn more about optimizing your WebM here](https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats#WebM).
 
