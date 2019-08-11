@@ -1,3 +1,8 @@
+---
+title: Activating
+description: Activating the plugin, managing current activations, and activation limits
+---
+
 # Activating
 
 Video Background Pro must be activated in order to use it. Once you purchase the plugin, you will be granted a license key and email (the email you made the purchase with). [You can view your license keys in your account.](https://pushlabs.co/my-account/my-api-keys/)
