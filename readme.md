@@ -15,6 +15,7 @@ items:
   - path: filters
   - component: Divider
   - path: troubleshooting
+  - path: faq.md
   - path: examples
   - component: Divider
   - url: https://pushlabs.co/license/

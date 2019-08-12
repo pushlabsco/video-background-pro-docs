@@ -5,6 +5,10 @@ description: Everything about the [vidbg] shortcode
 
 # Using the Shortcode
 
+<div style="padding-top: 56.25%; position: relative;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Ax-MSgWP5ww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 The shortcode is the backbone of the entire Video Background Pro plugin. Whether or not you realize it, every other way to create a video background (metabox, WPBakery, SiteOrigin) all end up using the shortcode to initialize the plugin and add it to your website.
 
 ## Parameters
