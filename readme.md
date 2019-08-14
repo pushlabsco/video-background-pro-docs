@@ -24,6 +24,8 @@ items:
     title: Support
   - url: https://github.com/pushlabsco/video-background-pro-docs
     title: Contribute to These Docs
+  - url: https://pushlabs.co/video-background-pro
+    title: Purchase the Plugin
 ---
 
 # Welcome to the Video Background Pro docs!
