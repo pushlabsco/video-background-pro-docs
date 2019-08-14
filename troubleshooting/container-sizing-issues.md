@@ -3,6 +3,7 @@
 In Video Background Pro, the video background is always the size of the container that you specify. This means that if the container is an element with 50 pixels in width and height, that will be the size of the video background. **Additionally, if your container's height is 0 pixels or it does not have any content inside of it, the video background will not show up since the container is essentially non-existent.**
 
 The best way to control the size of the container is to use CSS. Say you have a container:
+
 ```html
 <div class="my-video-background">
     ...
