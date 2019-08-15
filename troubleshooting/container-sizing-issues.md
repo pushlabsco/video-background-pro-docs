@@ -43,3 +43,13 @@ These values are likely not the best, but they illustrate how this could be achi
 ## Using Aspect Ratios
 
 My favorite approach is to use aspect ratios, since they are percentage based, making them responsive by nature. However, these require a bit more thought and coding experience. [You can take a look at using aspect ratios in css here.](https://www.w3schools.com/howto/howto_css_aspect_ratio.asp)
+
+## Video Takes Up Entire Height of Webpage
+
+Since the container takes up the entire space of the container, if you specify `body` as the container, it will take up the full height of the webpage. To counteract this, you could make the `.vidbg-container` class positioned `fixed`. Add the following code to `WordPress Admin > Appearance > Customizer`:
+
+```css
+body + .vidbg-container {
+    position: fixed;
+}
+```
