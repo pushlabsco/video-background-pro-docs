@@ -17,6 +17,7 @@ items:
   - path: troubleshooting
   - path: faq.md
   - path: examples
+  - path: changelog.md
   - component: Divider
   - url: https://pushlabs.co/license/
     title: License
