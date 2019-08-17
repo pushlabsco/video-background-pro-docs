@@ -5,6 +5,10 @@ description: All of the changes in Video Background Pro
 
 # Changelog
 
+## v4.0.3 (Aug 17, 2019)
+### Enhancements
+* Added the `vidbgpro_player_do_not_track` filter. This filter allows you to disable tracking (cookies) from the YouTube and Vimeo players. [View the documentation on this feature here.](http://docs.pushlabs.co/video-background-pro/filters/do-not-track-cookies/)
+
 ## v4.0.2 (Aug 15, 2019)
 ### Bug Fixes
 * Fixed an issue where the video background size was larger than intended when using the "body" container
